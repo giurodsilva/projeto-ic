@@ -1,12 +1,12 @@
 # projeto-ic
 
-# Classificador de Sentenças: Texto Natural vs. Artificial
+## Classificador de Sentenças: Texto Natural vs. Artificial
 
 Este projeto tem como objetivo processar, analisar e classificar sentenças em duas classes distintas: *natural*, composta por obras do escritor Graciliano Ramos; e *artificial*, composta por textos gerados pelo ChatGPT que tentam imitar o estilo de escrita do autor. 
 
 ---
 
-# Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e Bibliotecas Utilizadas
 O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
 * [Pandas](https://pandas.pydata.org/) (manipulação de dados)
 * [Scikit-learn](https://scikit-learn.org/) (modelos de Machine Learning, vetorização e métricas)
@@ -15,7 +15,7 @@ O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
 
 ---
 
-# Estrutura do Projeto
+## Estrutura do Projeto
 ```text
 classificador-sentencas-nlp/
 │
