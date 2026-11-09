@@ -28,3 +28,9 @@ classificador-sentencas-nlp/
 ├── main.py                # Passo 3: O arquivo mestre que chama tudo
 ├── requirements.txt       # Dependências (pandas, scikit-learn, spacy, nltk)
 └── README.md              # Documentação
+
+ ---
+
+Para citar o repositório:
+
+> SILVA, G.R. Um classificador para atribuição autoral de sentenças geradas por inteligências artificiais. Repositório no GitHub, 2025. 
