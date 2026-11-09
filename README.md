@@ -19,10 +19,12 @@ O projeto foi desenvolvido em **Python**, utilizando as seguintes bibliotecas:
 ```text
 classificador-sentencas-nlp/
 │
-├── dados/                      # Pasta com os arquivos de texto originais
-│   ├── classe_natural.txt
-│   └── classe_artificial.txt
+├── dados/
+│   ├── natural/classe_natural.txt
+│   └── artificial/classe_artificial.txt
 │
-├── main.py                     # Script principal com todo o fluxo de processamento e modelos
-├── requirements.txt            # Lista de dependências do projeto
-└── README.md                   # Documentação do projeto
+├── preprocessamento.py    # Passo 1: Limpeza, tokenização e estratificação
+├── modelos.py             # Passo 2: Treinamento de todos os classificadores
+├── main.py                # Passo 3: O arquivo mestre que chama tudo
+├── requirements.txt       # Dependências (pandas, scikit-learn, spacy, nltk)
+└── README.md              # Documentação
