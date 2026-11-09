@@ -2,7 +2,7 @@
 
 # Classificador de Sentenças: Texto Natural vs. Artificial
 
-Este projeto tem como objetivo processar, analisar e classificar sentenças em duas classes distintas (*natural* e *artificial*), utilizando técnicas de Processamento de Linguagem Natural (PLN) e algoritmos de aprendizado de máquina (Naive Bayes e Regressão Logística).
+Este projeto tem como objetivo processar, analisar e classificar sentenças em duas classes distintas: *natural*, composta por obras do escritor Graciliano Ramos; e *artificial*, composta por textos gerados pelo ChatGPT que tentam imitar o estilo de escrita do autor. 
 
 ---
 
